@@ -7780,7 +7780,7 @@ MonoBehaviour:
     source: {fileID: 0}
   - name: level1Sound
     clip: {fileID: 8300000, guid: 975df5a7cd6191b4a8ce5ca8a78dca08, type: 3}
-    volume: 0
+    volume: 0.243
     pitch: 1
     source: {fileID: 0}
   - name: Jump

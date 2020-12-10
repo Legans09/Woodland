@@ -13,7 +13,7 @@ public class PlayerMovement : MonoBehaviour
     public bool left = false;
     public bool pushRight = false;
     public bool pushLeft = false;
-    private bool pause = false;
+    //private bool pause = false;
     private bool dialogue = false;
 
     public float restartDelay = 10f;
@@ -129,7 +129,7 @@ public class PlayerMovement : MonoBehaviour
 
 
 
-
+    /*
 
     public void setPause()
     {
@@ -142,6 +142,7 @@ public class PlayerMovement : MonoBehaviour
         pause = false;
         
     }
+    */
 
 
     public void setDialogue(bool isTalking)

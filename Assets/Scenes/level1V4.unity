@@ -9650,9 +9650,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sounds:
   - name: Walking
-    clip: {fileID: 8300000, guid: aa6430dc92a010541b66a0b86cd9815d, type: 3}
-    volume: 0.66
-    pitch: 1.24
+    clip: {fileID: 8300000, guid: 9b713c76b05f8b04882a23a60605b0d2, type: 3}
+    volume: 0.23
+    pitch: 0.9
     source: {fileID: 0}
   - name: level1Sound
     clip: {fileID: 8300000, guid: 975df5a7cd6191b4a8ce5ca8a78dca08, type: 3}

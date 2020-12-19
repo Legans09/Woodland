@@ -1,0 +1,1100 @@
+fileFormatVersion: 2
+guid: 4ee782752095f9f48a779863df9261fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: CrouchSlash0000
+  - first:
+      213: 21300002
+    second: CrouchSlash0001
+  - first:
+      213: 21300004
+    second: CrouchSlash0002
+  - first:
+      213: 21300006
+    second: CrouchSlash0003
+  - first:
+      213: 21300008
+    second: CrouchSlash0004
+  - first:
+      213: 21300010
+    second: CrouchSlash0005
+  - first:
+      213: 21300012
+    second: CrouchSlash0006
+  - first:
+      213: 21300014
+    second: CrouchSlash0007
+  - first:
+      213: 21300016
+    second: CrouchSlash0008
+  - first:
+      213: 21300018
+    second: CrouchSlash0009
+  - first:
+      213: 21300020
+    second: CrouchSlash0010
+  - first:
+      213: 21300022
+    second: CrouchSlash0011
+  - first:
+      213: 21300024
+    second: CrouchSlash0012
+  - first:
+      213: 21300026
+    second: CrouchSlash0013
+  - first:
+      213: 21300028
+    second: CrouchSlash0014
+  - first:
+      213: 21300030
+    second: CrouchSlash0015
+  - first:
+      213: 21300032
+    second: CrouchSlash0016
+  - first:
+      213: 21300034
+    second: CrouchSlash0017
+  - first:
+      213: 21300036
+    second: CrouchSlash0018
+  - first:
+      213: 21300038
+    second: CrouchSlash0019
+  - first:
+      213: 21300040
+    second: CrouchSlash0020
+  - first:
+      213: 21300042
+    second: CrouchSlash0021
+  - first:
+      213: 21300044
+    second: CrouchSlash0022
+  - first:
+      213: 21300046
+    second: CrouchSlash0023
+  - first:
+      213: 21300048
+    second: CrouchSlash0024
+  - first:
+      213: 21300050
+    second: CrouchSlash0025
+  - first:
+      213: 21300052
+    second: CrouchSlash0026
+  - first:
+      213: 21300054
+    second: CrouchSlash0027
+  - first:
+      213: 21300056
+    second: CrouchSlash0028
+  - first:
+      213: 21300058
+    second: CrouchSlash0029
+  - first:
+      213: 21300060
+    second: CrouchSlash0030
+  - first:
+      213: 21300062
+    second: CrouchSlash0031
+  - first:
+      213: 21300064
+    second: CrouchSlash0032
+  - first:
+      213: 21300066
+    second: CrouchSlash0033
+  - first:
+      213: 21300068
+    second: CrouchSlash0034
+  - first:
+      213: 21300070
+    second: CrouchSlash0035
+  - first:
+      213: 21300072
+    second: CrouchSlash0036
+  - first:
+      213: 21300074
+    second: CrouchSlash0037
+  - first:
+      213: 21300076
+    second: CrouchSlash0038
+  - first:
+      213: 21300078
+    second: CrouchSlash0039
+  - first:
+      213: 21300080
+    second: CrouchSlash0040
+  - first:
+      213: 21300082
+    second: CrouchSlash0041
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CrouchSlash0000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 891
+        width: 120
+        height: 132
+      alignment: 9
+      pivot: {x: 0.425, y: 1.0227273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0001
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 886
+        width: 117
+        height: 137
+      alignment: 9
+      pivot: {x: 0.45299146, y: 0.98540145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0002
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 886
+        width: 119
+        height: 137
+      alignment: 9
+      pivot: {x: 0.46218488, y: 0.98540145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0003
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 885
+        width: 128
+        height: 138
+      alignment: 9
+      pivot: {x: 0.453125, y: 0.9782609}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0004
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 887
+        width: 132
+        height: 136
+      alignment: 9
+      pivot: {x: 0.4469697, y: 0.99264705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0005
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 883
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.45, y: 0.95714283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0006
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 885
+        width: 152
+        height: 138
+      alignment: 9
+      pivot: {x: 0.45394737, y: 0.9782609}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0007
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 886
+        width: 153
+        height: 137
+      alignment: 9
+      pivot: {x: 0.4509804, y: 0.9781022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0008
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 877
+        width: 146
+        height: 146
+      alignment: 9
+      pivot: {x: 0.43150684, y: 0.91780823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0009
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 858
+        width: 151
+        height: 165
+      alignment: 9
+      pivot: {x: 0.397351, y: 0.8121212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0010
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 835
+        width: 149
+        height: 188
+      alignment: 9
+      pivot: {x: 0.4161074, y: 0.70212764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0011
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 848
+        width: 130
+        height: 175
+      alignment: 9
+      pivot: {x: 0.36923078, y: 0.7657143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0012
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 838
+        width: 124
+        height: 185
+      alignment: 9
+      pivot: {x: 0.4032258, y: 0.7297297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0013
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 854
+        width: 134
+        height: 169
+      alignment: 9
+      pivot: {x: 0.3955224, y: 0.78698224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 662
+        width: 137
+        height: 171
+      alignment: 9
+      pivot: {x: 0.3649635, y: 0.7836257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0015
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 666
+        width: 142
+        height: 167
+      alignment: 9
+      pivot: {x: 0.33802816, y: 0.79640716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0016
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 649
+        width: 142
+        height: 184
+      alignment: 9
+      pivot: {x: 0.29577464, y: 0.7282609}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0017
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 680
+        width: 222
+        height: 153
+      alignment: 9
+      pivot: {x: 0.21621622, y: 0.88235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0018
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 687
+        width: 237
+        height: 146
+      alignment: 9
+      pivot: {x: 0.1814346, y: 0.9246575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0019
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 691
+        width: 207
+        height: 142
+      alignment: 9
+      pivot: {x: 0.19323671, y: 0.9507042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0020
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 691
+        width: 135
+        height: 142
+      alignment: 9
+      pivot: {x: 0.2888889, y: 0.9507042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0021
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 690
+        width: 135
+        height: 143
+      alignment: 9
+      pivot: {x: 0.2888889, y: 0.9440559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0022
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 691
+        width: 132
+        height: 142
+      alignment: 9
+      pivot: {x: 0.27272728, y: 0.9507042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0023
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 697
+        width: 136
+        height: 136
+      alignment: 9
+      pivot: {x: 0.29411766, y: 0.9852941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0024
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 700
+        width: 135
+        height: 133
+      alignment: 9
+      pivot: {x: 0.2888889, y: 1.0150375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0025
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 703
+        width: 139
+        height: 130
+      alignment: 9
+      pivot: {x: 0.29496402, y: 1.0307692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0026
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 510
+        width: 150
+        height: 137
+      alignment: 9
+      pivot: {x: 0.29333332, y: 0.98540145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0027
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 516
+        width: 148
+        height: 131
+      alignment: 9
+      pivot: {x: 0.2635135, y: 1.0152671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0028
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 510
+        width: 137
+        height: 137
+      alignment: 9
+      pivot: {x: 0.27737227, y: 0.9708029}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0029
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 506
+        width: 153
+        height: 141
+      alignment: 9
+      pivot: {x: 0.37254903, y: 0.9574468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0030
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 510
+        width: 140
+        height: 137
+      alignment: 9
+      pivot: {x: 0.29285714, y: 0.9781022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0031
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 510
+        width: 142
+        height: 137
+      alignment: 9
+      pivot: {x: 0.32394367, y: 0.98540145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0032
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 504
+        width: 154
+        height: 143
+      alignment: 9
+      pivot: {x: 0.32467532, y: 0.9440559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0033
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 503
+        width: 154
+        height: 144
+      alignment: 9
+      pivot: {x: 0.2857143, y: 0.9375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0034
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 504
+        width: 161
+        height: 143
+      alignment: 9
+      pivot: {x: 0.29813665, y: 0.9440559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0035
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 507
+        width: 147
+        height: 140
+      alignment: 9
+      pivot: {x: 0.30612245, y: 0.96428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0036
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 509
+        width: 131
+        height: 138
+      alignment: 9
+      pivot: {x: 0.36641222, y: 0.9782609}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0037
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 507
+        width: 117
+        height: 140
+      alignment: 9
+      pivot: {x: 0.43589744, y: 0.96428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0038
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 512
+        width: 125
+        height: 135
+      alignment: 9
+      pivot: {x: 0.44, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0039
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 512
+        width: 126
+        height: 135
+      alignment: 9
+      pivot: {x: 0.45238096, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0040
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 361
+        width: 122
+        height: 140
+      alignment: 9
+      pivot: {x: 0.43442622, y: 0.96428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash0041
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 369
+        width: 119
+        height: 132
+      alignment: 9
+      pivot: {x: 0.42857143, y: 1.0227273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

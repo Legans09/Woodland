@@ -89,6 +89,7 @@ public class PlayerMovement : MonoBehaviour
             {
                 Vector2 turn = new Vector2(turnSpeed, 0f);
                 player.Rotate(rotateLeft);
+                //Rotate Left Animation 
                 rb2d.AddForce(turn * Time.deltaTime * speed);
                 left = true;
             }
@@ -100,6 +101,7 @@ public class PlayerMovement : MonoBehaviour
 
                 
                 Vector2 turn = new Vector2(-turnSpeed, 0f);
+                //Rotate Right Animation 
                 rb2d.AddForce(turn * Time.deltaTime * speed);
 
                 player.Rotate(rotateRight);

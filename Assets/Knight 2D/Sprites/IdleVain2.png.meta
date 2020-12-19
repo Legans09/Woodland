@@ -1,0 +1,2516 @@
+fileFormatVersion: 2
+guid: bd25e5916a9d30d48a883cbe25733125
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 2IdleVain0000
+  - first:
+      213: 21300002
+    second: 2IdleVain0001
+  - first:
+      213: 21300004
+    second: 2IdleVain0002
+  - first:
+      213: 21300006
+    second: 2IdleVain0003
+  - first:
+      213: 21300008
+    second: 2IdleVain0004
+  - first:
+      213: 21300010
+    second: 2IdleVain0005
+  - first:
+      213: 21300012
+    second: 2IdleVain0006
+  - first:
+      213: 21300014
+    second: 2IdleVain0007
+  - first:
+      213: 21300016
+    second: 2IdleVain0008
+  - first:
+      213: 21300018
+    second: 2IdleVain0009
+  - first:
+      213: 21300020
+    second: 2IdleVain0010
+  - first:
+      213: 21300022
+    second: 2IdleVain0011
+  - first:
+      213: 21300024
+    second: 2IdleVain0012
+  - first:
+      213: 21300026
+    second: 2IdleVain0013
+  - first:
+      213: 21300028
+    second: 2IdleVain0014
+  - first:
+      213: 21300030
+    second: 2IdleVain0015
+  - first:
+      213: 21300032
+    second: 2IdleVain0016
+  - first:
+      213: 21300034
+    second: 2IdleVain0017
+  - first:
+      213: 21300036
+    second: 2IdleVain0018
+  - first:
+      213: 21300038
+    second: 2IdleVain0019
+  - first:
+      213: 21300040
+    second: 2IdleVain0020
+  - first:
+      213: 21300042
+    second: 2IdleVain0021
+  - first:
+      213: 21300044
+    second: 2IdleVain0022
+  - first:
+      213: 21300046
+    second: 2IdleVain0023
+  - first:
+      213: 21300048
+    second: 2IdleVain0024
+  - first:
+      213: 21300050
+    second: 2IdleVain0025
+  - first:
+      213: 21300052
+    second: 2IdleVain0026
+  - first:
+      213: 21300054
+    second: 2IdleVain0027
+  - first:
+      213: 21300056
+    second: 2IdleVain0028
+  - first:
+      213: 21300058
+    second: 2IdleVain0029
+  - first:
+      213: 21300060
+    second: 2IdleVain0030
+  - first:
+      213: 21300062
+    second: 2IdleVain0031
+  - first:
+      213: 21300064
+    second: 2IdleVain0032
+  - first:
+      213: 21300066
+    second: 2IdleVain0033
+  - first:
+      213: 21300068
+    second: 2IdleVain0034
+  - first:
+      213: 21300070
+    second: 2IdleVain0035
+  - first:
+      213: 21300072
+    second: 2IdleVain0036
+  - first:
+      213: 21300074
+    second: 2IdleVain0037
+  - first:
+      213: 21300076
+    second: 2IdleVain0038
+  - first:
+      213: 21300078
+    second: 2IdleVain0039
+  - first:
+      213: 21300080
+    second: 2IdleVain0040
+  - first:
+      213: 21300082
+    second: 2IdleVain0041
+  - first:
+      213: 21300084
+    second: 2IdleVain0042
+  - first:
+      213: 21300086
+    second: 2IdleVain0043
+  - first:
+      213: 21300088
+    second: 2IdleVain0044
+  - first:
+      213: 21300090
+    second: 2IdleVain0045
+  - first:
+      213: 21300092
+    second: 2IdleVain0046
+  - first:
+      213: 21300094
+    second: 2IdleVain0047
+  - first:
+      213: 21300096
+    second: 2IdleVain0048
+  - first:
+      213: 21300098
+    second: 2IdleVain0049
+  - first:
+      213: 21300100
+    second: 2IdleVain0050
+  - first:
+      213: 21300102
+    second: 2IdleVain0051
+  - first:
+      213: 21300104
+    second: 2IdleVain0052
+  - first:
+      213: 21300106
+    second: 2IdleVain0053
+  - first:
+      213: 21300108
+    second: 2IdleVain0054
+  - first:
+      213: 21300110
+    second: 2IdleVain0055
+  - first:
+      213: 21300112
+    second: 2IdleVain0056
+  - first:
+      213: 21300114
+    second: 2IdleVain0057
+  - first:
+      213: 21300116
+    second: 2IdleVain0058
+  - first:
+      213: 21300118
+    second: 2IdleVain0059
+  - first:
+      213: 21300120
+    second: 2IdleVain0060
+  - first:
+      213: 21300122
+    second: 2IdleVain0061
+  - first:
+      213: 21300124
+    second: 2IdleVain0062
+  - first:
+      213: 21300126
+    second: 2IdleVain0063
+  - first:
+      213: 21300128
+    second: 2IdleVain0064
+  - first:
+      213: 21300130
+    second: 2IdleVain0065
+  - first:
+      213: 21300132
+    second: 2IdleVain0066
+  - first:
+      213: 21300134
+    second: 2IdleVain0067
+  - first:
+      213: 21300136
+    second: 2IdleVain0068
+  - first:
+      213: 21300138
+    second: 2IdleVain0069
+  - first:
+      213: 21300140
+    second: 2IdleVain0070
+  - first:
+      213: 21300142
+    second: 2IdleVain0071
+  - first:
+      213: 21300144
+    second: 2IdleVain0072
+  - first:
+      213: 21300146
+    second: 2IdleVain0073
+  - first:
+      213: 21300148
+    second: 2IdleVain0074
+  - first:
+      213: 21300150
+    second: 2IdleVain0075
+  - first:
+      213: 21300152
+    second: 2IdleVain0076
+  - first:
+      213: 21300154
+    second: 2IdleVain0077
+  - first:
+      213: 21300156
+    second: 2IdleVain0078
+  - first:
+      213: 21300158
+    second: 2IdleVain0079
+  - first:
+      213: 21300160
+    second: 2IdleVain0080
+  - first:
+      213: 21300162
+    second: 2IdleVain0081
+  - first:
+      213: 21300164
+    second: 2IdleVain0082
+  - first:
+      213: 21300166
+    second: 2IdleVain0083
+  - first:
+      213: 21300168
+    second: 2IdleVain0084
+  - first:
+      213: 21300170
+    second: 2IdleVain0085
+  - first:
+      213: 21300172
+    second: 2IdleVain0086
+  - first:
+      213: 21300174
+    second: 2IdleVain0087
+  - first:
+      213: 21300176
+    second: 2IdleVain0088
+  - first:
+      213: 21300178
+    second: 2IdleVain0089
+  - first:
+      213: 21300180
+    second: 2IdleVain0090
+  - first:
+      213: 21300182
+    second: 2IdleVain0091
+  - first:
+      213: 21300184
+    second: 2IdleVain0092
+  - first:
+      213: 21300186
+    second: 2IdleVain0093
+  - first:
+      213: 21300188
+    second: 2IdleVain0094
+  - first:
+      213: 21300190
+    second: 2IdleVain0095
+  - first:
+      213: 21300192
+    second: 2IdleVain0096
+  - first:
+      213: 21300194
+    second: 2IdleVain0097
+  - first:
+      213: 21300196
+    second: 2IdleVain0098
+  - first:
+      213: 21300198
+    second: 2IdleVain0099
+  - first:
+      213: 21300200
+    second: 2IdleVain0100
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2IdleVain0000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1854
+        width: 124
+        height: 193
+      alignment: 9
+      pivot: {x: 0.5967742, y: 0.69948184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0001
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1858
+        width: 124
+        height: 189
+      alignment: 9
+      pivot: {x: 0.5967742, y: 0.71428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0002
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1865
+        width: 126
+        height: 182
+      alignment: 9
+      pivot: {x: 0.6031746, y: 0.7417582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0003
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1861
+        width: 127
+        height: 186
+      alignment: 9
+      pivot: {x: 0.6062992, y: 0.7258065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0004
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1864
+        width: 137
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5620438, y: 0.73770493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0005
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1864
+        width: 129
+        height: 183
+      alignment: 9
+      pivot: {x: 0.56589144, y: 0.73770493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0006
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1862
+        width: 136
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5661765, y: 0.7297297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0007
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1861
+        width: 138
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5652174, y: 0.7258065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0008
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1857
+        width: 138
+        height: 190
+      alignment: 9
+      pivot: {x: 0.5652174, y: 0.7105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0009
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1861
+        width: 134
+        height: 186
+      alignment: 9
+      pivot: {x: 0.54477614, y: 0.7258065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0010
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1855
+        width: 136
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5735294, y: 0.703125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0011
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1855
+        width: 134
+        height: 192
+      alignment: 9
+      pivot: {x: 0.58208954, y: 0.703125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0012
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1851
+        width: 132
+        height: 196
+      alignment: 9
+      pivot: {x: 0.59090906, y: 0.68877554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0013
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 1844
+        width: 133
+        height: 203
+      alignment: 9
+      pivot: {x: 0.59398496, y: 0.66502464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0014
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 1844
+        width: 130
+        height: 203
+      alignment: 9
+      pivot: {x: 0.6, y: 0.66502464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0015
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1622
+        width: 127
+        height: 220
+      alignment: 9
+      pivot: {x: 0.61417323, y: 0.6136364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0016
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1640
+        width: 126
+        height: 202
+      alignment: 9
+      pivot: {x: 0.61904764, y: 0.66831684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0017
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1643
+        width: 127
+        height: 199
+      alignment: 9
+      pivot: {x: 0.61417323, y: 0.67839193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0018
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1656
+        width: 142
+        height: 186
+      alignment: 9
+      pivot: {x: 0.6549296, y: 0.7258065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0019
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1663
+        width: 152
+        height: 179
+      alignment: 9
+      pivot: {x: 0.67105263, y: 0.75418997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0020
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1664
+        width: 130
+        height: 178
+      alignment: 9
+      pivot: {x: 0.61538464, y: 0.75842696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0021
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1664
+        width: 123
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5934959, y: 0.75842696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0022
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1664
+        width: 123
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5934959, y: 0.75842696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0023
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1664
+        width: 144
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5347222, y: 0.75842696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0024
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1664
+        width: 194
+        height: 178
+      alignment: 9
+      pivot: {x: 0.40206185, y: 0.75842696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0025
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 1657
+        width: 208
+        height: 185
+      alignment: 9
+      pivot: {x: 0.3846154, y: 0.7297297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0026
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1657
+        width: 198
+        height: 185
+      alignment: 9
+      pivot: {x: 0.4040404, y: 0.7297297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0027
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1642
+        width: 174
+        height: 200
+      alignment: 9
+      pivot: {x: 0.4597701, y: 0.675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0028
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1442
+        width: 143
+        height: 178
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.75842696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0029
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1437
+        width: 134
+        height: 183
+      alignment: 9
+      pivot: {x: 0.54477614, y: 0.73770493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0030
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1440
+        width: 174
+        height: 180
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0031
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1436
+        width: 161
+        height: 184
+      alignment: 9
+      pivot: {x: 0.48447204, y: 0.7336956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0032
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1438
+        width: 128
+        height: 182
+      alignment: 9
+      pivot: {x: 0.609375, y: 0.7417582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0033
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1436
+        width: 164
+        height: 184
+      alignment: 9
+      pivot: {x: 0.69512194, y: 0.7336956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0034
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1438
+        width: 212
+        height: 182
+      alignment: 9
+      pivot: {x: 0.7641509, y: 0.7417582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0035
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1437
+        width: 213
+        height: 183
+      alignment: 9
+      pivot: {x: 0.7652582, y: 0.73770493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0036
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1439
+        width: 207
+        height: 181
+      alignment: 9
+      pivot: {x: 0.7584541, y: 0.74585634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0037
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1438
+        width: 203
+        height: 182
+      alignment: 9
+      pivot: {x: 0.7536946, y: 0.7417582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0038
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1437
+        width: 182
+        height: 183
+      alignment: 9
+      pivot: {x: 0.72527474, y: 0.73770493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0039
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1251
+        width: 170
+        height: 183
+      alignment: 9
+      pivot: {x: 0.7058824, y: 0.73770493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0040
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1252
+        width: 140
+        height: 182
+      alignment: 9
+      pivot: {x: 0.64285713, y: 0.7417582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0041
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1254
+        width: 123
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5934959, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0042
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1252
+        width: 123
+        height: 182
+      alignment: 9
+      pivot: {x: 0.5934959, y: 0.7417582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0043
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1253
+        width: 128
+        height: 181
+      alignment: 9
+      pivot: {x: 0.609375, y: 0.74585634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0044
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1252
+        width: 163
+        height: 182
+      alignment: 9
+      pivot: {x: 0.4785276, y: 0.7417582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0045
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1251
+        width: 162
+        height: 183
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.73770493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0046
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1250
+        width: 161
+        height: 184
+      alignment: 9
+      pivot: {x: 0.48447204, y: 0.7336956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0047
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1253
+        width: 155
+        height: 181
+      alignment: 9
+      pivot: {x: 0.47096774, y: 0.74585634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0048
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1249
+        width: 149
+        height: 185
+      alignment: 9
+      pivot: {x: 0.52348995, y: 0.7297297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0049
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1250
+        width: 150
+        height: 184
+      alignment: 9
+      pivot: {x: 0.52, y: 0.7336956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0050
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1246
+        width: 142
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5492958, y: 0.7180851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0051
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1246
+        width: 140
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5214286, y: 0.7180851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0052
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1057
+        width: 138
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5289855, y: 0.72192514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0053
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1058
+        width: 152
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5197368, y: 0.7258065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0054
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1058
+        width: 156
+        height: 186
+      alignment: 9
+      pivot: {x: 0.50641024, y: 0.7258065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0055
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1059
+        width: 149
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5167785, y: 0.7297297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0056
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1059
+        width: 162
+        height: 185
+      alignment: 9
+      pivot: {x: 0.47530866, y: 0.7297297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0057
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1055
+        width: 164
+        height: 189
+      alignment: 9
+      pivot: {x: 0.47560975, y: 0.71428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0058
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1058
+        width: 161
+        height: 186
+      alignment: 9
+      pivot: {x: 0.49689442, y: 0.7258065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0059
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1061
+        width: 153
+        height: 183
+      alignment: 9
+      pivot: {x: 0.52287585, y: 0.73770493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0060
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1060
+        width: 144
+        height: 184
+      alignment: 9
+      pivot: {x: 0.5069444, y: 0.7336956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0061
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1060
+        width: 141
+        height: 184
+      alignment: 9
+      pivot: {x: 0.5531915, y: 0.7336956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0062
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1060
+        width: 146
+        height: 184
+      alignment: 9
+      pivot: {x: 0.53424656, y: 0.7336956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0063
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1060
+        width: 149
+        height: 184
+      alignment: 9
+      pivot: {x: 0.5503356, y: 0.7336956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0064
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1060
+        width: 150
+        height: 184
+      alignment: 9
+      pivot: {x: 0.56, y: 0.7336956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0065
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 867
+        width: 153
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5816994, y: 0.7258065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0066
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 865
+        width: 155
+        height: 188
+      alignment: 9
+      pivot: {x: 0.6, y: 0.7180851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0067
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 859
+        width: 150
+        height: 194
+      alignment: 9
+      pivot: {x: 0.6066667, y: 0.6958763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0068
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 853
+        width: 147
+        height: 200
+      alignment: 9
+      pivot: {x: 0.61904764, y: 0.675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0069
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 846
+        width: 147
+        height: 207
+      alignment: 9
+      pivot: {x: 0.6394558, y: 0.65217394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0070
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 841
+        width: 148
+        height: 212
+      alignment: 9
+      pivot: {x: 0.6486486, y: 0.6367925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0071
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 833
+        width: 148
+        height: 220
+      alignment: 9
+      pivot: {x: 0.6621622, y: 0.6136364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0072
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 837
+        width: 147
+        height: 216
+      alignment: 9
+      pivot: {x: 0.65986395, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0073
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 831
+        width: 147
+        height: 222
+      alignment: 9
+      pivot: {x: 0.65986395, y: 0.6081081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0074
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 835
+        width: 147
+        height: 218
+      alignment: 9
+      pivot: {x: 0.65986395, y: 0.61926603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0075
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 833
+        width: 149
+        height: 220
+      alignment: 9
+      pivot: {x: 0.66442955, y: 0.6136364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0076
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 827
+        width: 140
+        height: 226
+      alignment: 9
+      pivot: {x: 0.64285713, y: 0.5973451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0077
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 831
+        width: 142
+        height: 222
+      alignment: 9
+      pivot: {x: 0.6619718, y: 0.6081081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0078
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 614
+        width: 139
+        height: 211
+      alignment: 9
+      pivot: {x: 0.62589926, y: 0.63981044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0079
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 620
+        width: 144
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5694444, y: 0.6585366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0080
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 630
+        width: 156
+        height: 195
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0.6923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0081
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 637
+        width: 166
+        height: 188
+      alignment: 9
+      pivot: {x: 0.4759036, y: 0.7180851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0082
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 633
+        width: 144
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.703125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0083
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 625
+        width: 127
+        height: 200
+      alignment: 9
+      pivot: {x: 0.6062992, y: 0.675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0084
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 631
+        width: 128
+        height: 194
+      alignment: 9
+      pivot: {x: 0.609375, y: 0.6958763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0085
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 631
+        width: 123
+        height: 194
+      alignment: 9
+      pivot: {x: 0.5934959, y: 0.6958763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0086
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 639
+        width: 129
+        height: 186
+      alignment: 9
+      pivot: {x: 0.6124031, y: 0.7258065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0087
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 647
+        width: 124
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5967742, y: 0.75842696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0088
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 644
+        width: 123
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5934959, y: 0.74585634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0089
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 646
+        width: 131
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5954198, y: 0.75418997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0090
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 645
+        width: 137
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5620438, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0091
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 642
+        width: 131
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5648855, y: 0.73770493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0092
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 427
+        width: 136
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5735294, y: 0.7297297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0093
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 427
+        width: 130
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5692308, y: 0.7297297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0094
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 423
+        width: 128
+        height: 189
+      alignment: 9
+      pivot: {x: 0.6015625, y: 0.71428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0095
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 420
+        width: 127
+        height: 192
+      alignment: 9
+      pivot: {x: 0.6062992, y: 0.703125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0096
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 424
+        width: 126
+        height: 188
+      alignment: 9
+      pivot: {x: 0.6031746, y: 0.7180851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0097
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 427
+        width: 123
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5934959, y: 0.7297297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0098
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 426
+        width: 123
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5934959, y: 0.7258065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0099
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 424
+        width: 123
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5934959, y: 0.7180851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2IdleVain0100
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 419
+        width: 123
+        height: 193
+      alignment: 9
+      pivot: {x: 0.5934959, y: 0.69948184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

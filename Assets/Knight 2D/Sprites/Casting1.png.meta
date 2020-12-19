@@ -1,0 +1,2252 @@
+fileFormatVersion: 2
+guid: 5fe88a98be92cd8499c4f6616811304a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 1Casting0000
+  - first:
+      213: 21300002
+    second: 1Casting0001
+  - first:
+      213: 21300004
+    second: 1Casting0002
+  - first:
+      213: 21300006
+    second: 1Casting0003
+  - first:
+      213: 21300008
+    second: 1Casting0004
+  - first:
+      213: 21300010
+    second: 1Casting0005
+  - first:
+      213: 21300012
+    second: 1Casting0006
+  - first:
+      213: 21300014
+    second: 1Casting0007
+  - first:
+      213: 21300016
+    second: 1Casting0008
+  - first:
+      213: 21300018
+    second: 1Casting0009
+  - first:
+      213: 21300020
+    second: 1Casting0010
+  - first:
+      213: 21300022
+    second: 1Casting0011
+  - first:
+      213: 21300024
+    second: 1Casting0012
+  - first:
+      213: 21300026
+    second: 1Casting0013
+  - first:
+      213: 21300028
+    second: 1Casting0014
+  - first:
+      213: 21300030
+    second: 1Casting0015
+  - first:
+      213: 21300032
+    second: 1Casting0016
+  - first:
+      213: 21300034
+    second: 1Casting0017
+  - first:
+      213: 21300036
+    second: 1Casting0018
+  - first:
+      213: 21300038
+    second: 1Casting0019
+  - first:
+      213: 21300040
+    second: 1Casting0020
+  - first:
+      213: 21300042
+    second: 1Casting0021
+  - first:
+      213: 21300044
+    second: 1Casting0022
+  - first:
+      213: 21300046
+    second: 1Casting0023
+  - first:
+      213: 21300048
+    second: 1Casting0024
+  - first:
+      213: 21300050
+    second: 1Casting0025
+  - first:
+      213: 21300052
+    second: 1Casting0026
+  - first:
+      213: 21300054
+    second: 1Casting0027
+  - first:
+      213: 21300056
+    second: 1Casting0028
+  - first:
+      213: 21300058
+    second: 1Casting0029
+  - first:
+      213: 21300060
+    second: 1Casting0030
+  - first:
+      213: 21300062
+    second: 1Casting0031
+  - first:
+      213: 21300064
+    second: 1Casting0032
+  - first:
+      213: 21300066
+    second: 1Casting0033
+  - first:
+      213: 21300068
+    second: 1Casting0034
+  - first:
+      213: 21300070
+    second: 1Casting0035
+  - first:
+      213: 21300072
+    second: 1Casting0036
+  - first:
+      213: 21300074
+    second: 1Casting0037
+  - first:
+      213: 21300076
+    second: 1Casting0038
+  - first:
+      213: 21300078
+    second: 1Casting0039
+  - first:
+      213: 21300080
+    second: 1Casting0040
+  - first:
+      213: 21300082
+    second: 1Casting0041
+  - first:
+      213: 21300084
+    second: 1Casting0042
+  - first:
+      213: 21300086
+    second: 1Casting0043
+  - first:
+      213: 21300088
+    second: 1Casting0044
+  - first:
+      213: 21300090
+    second: 1Casting0045
+  - first:
+      213: 21300092
+    second: 1Casting0046
+  - first:
+      213: 21300094
+    second: 1Casting0047
+  - first:
+      213: 21300096
+    second: 1Casting0048
+  - first:
+      213: 21300098
+    second: 1Casting0049
+  - first:
+      213: 21300100
+    second: 1Casting0050
+  - first:
+      213: 21300102
+    second: 1Casting0051
+  - first:
+      213: 21300104
+    second: 1Casting0052
+  - first:
+      213: 21300106
+    second: 1Casting0053
+  - first:
+      213: 21300108
+    second: 1Casting0054
+  - first:
+      213: 21300110
+    second: 1Casting0055
+  - first:
+      213: 21300112
+    second: 1Casting0056
+  - first:
+      213: 21300114
+    second: 1Casting0057
+  - first:
+      213: 21300116
+    second: 1Casting0058
+  - first:
+      213: 21300118
+    second: 1Casting0059
+  - first:
+      213: 21300120
+    second: 1Casting0060
+  - first:
+      213: 21300122
+    second: 1Casting0061
+  - first:
+      213: 21300124
+    second: 1Casting0062
+  - first:
+      213: 21300126
+    second: 1Casting0063
+  - first:
+      213: 21300128
+    second: 1Casting0064
+  - first:
+      213: 21300130
+    second: 1Casting0065
+  - first:
+      213: 21300132
+    second: 1Casting0066
+  - first:
+      213: 21300134
+    second: 1Casting0067
+  - first:
+      213: 21300136
+    second: 1Casting0068
+  - first:
+      213: 21300138
+    second: 1Casting0069
+  - first:
+      213: 21300140
+    second: 1Casting0070
+  - first:
+      213: 21300142
+    second: 1Casting0071
+  - first:
+      213: 21300144
+    second: 1Casting0072
+  - first:
+      213: 21300146
+    second: 1Casting0073
+  - first:
+      213: 21300148
+    second: 1Casting0074
+  - first:
+      213: 21300150
+    second: 1Casting0075
+  - first:
+      213: 21300152
+    second: 1Casting0076
+  - first:
+      213: 21300154
+    second: 1Casting0077
+  - first:
+      213: 21300156
+    second: 1Casting0078
+  - first:
+      213: 21300158
+    second: 1Casting0079
+  - first:
+      213: 21300160
+    second: 1Casting0080
+  - first:
+      213: 21300162
+    second: 1Casting0081
+  - first:
+      213: 21300164
+    second: 1Casting0082
+  - first:
+      213: 21300166
+    second: 1Casting0083
+  - first:
+      213: 21300168
+    second: 1Casting0084
+  - first:
+      213: 21300170
+    second: 1Casting0085
+  - first:
+      213: 21300172
+    second: 1Casting0086
+  - first:
+      213: 21300174
+    second: 1Casting0087
+  - first:
+      213: 21300176
+    second: 1Casting0088
+  - first:
+      213: 21300178
+    second: 1Casting0089
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1Casting0000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1855
+        width: 132
+        height: 192
+      alignment: 9
+      pivot: {x: 0.56060606, y: 0.703125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0001
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1863
+        width: 135
+        height: 184
+      alignment: 9
+      pivot: {x: 0.5703704, y: 0.7336956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0002
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1866
+        width: 130
+        height: 181
+      alignment: 9
+      pivot: {x: 0.56153846, y: 0.74585634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0003
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1866
+        width: 136
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5661765, y: 0.74585634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0004
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1868
+        width: 134
+        height: 179
+      alignment: 9
+      pivot: {x: 0.57462686, y: 0.75418997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0005
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1857
+        width: 137
+        height: 190
+      alignment: 9
+      pivot: {x: 0.57664233, y: 0.7105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0006
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1861
+        width: 134
+        height: 186
+      alignment: 9
+      pivot: {x: 0.54477614, y: 0.7258065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0007
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1857
+        width: 157
+        height: 190
+      alignment: 9
+      pivot: {x: 0.49044585, y: 0.7105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0008
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1847
+        width: 165
+        height: 200
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0009
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1831
+        width: 163
+        height: 216
+      alignment: 9
+      pivot: {x: 0.48466256, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0010
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1804
+        width: 166
+        height: 243
+      alignment: 9
+      pivot: {x: 0.46385542, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0011
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 1786
+        width: 174
+        height: 261
+      alignment: 9
+      pivot: {x: 0.4770115, y: 0.51724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0012
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1777
+        width: 163
+        height: 270
+      alignment: 9
+      pivot: {x: 0.4969325, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0013
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1505
+        width: 150
+        height: 270
+      alignment: 9
+      pivot: {x: 0.56666666, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0014
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1505
+        width: 144
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5972222, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0015
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1505
+        width: 135
+        height: 270
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0016
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1505
+        width: 139
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5827338, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0017
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1505
+        width: 144
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5972222, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0018
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1505
+        width: 144
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5972222, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0019
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1505
+        width: 139
+        height: 270
+      alignment: 9
+      pivot: {x: 0.6115108, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0020
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1505
+        width: 139
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5827338, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0021
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1505
+        width: 139
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5827338, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0022
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1505
+        width: 139
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5827338, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0023
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1505
+        width: 139
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5827338, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0024
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1505
+        width: 139
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5827338, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0025
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 1505
+        width: 139
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5827338, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0026
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1505
+        width: 135
+        height: 270
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0027
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1233
+        width: 139
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5827338, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0028
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1233
+        width: 139
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5827338, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0029
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1233
+        width: 139
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5827338, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0030
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1233
+        width: 139
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5827338, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0031
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1233
+        width: 138
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5869565, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0032
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1233
+        width: 144
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5972222, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0033
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1233
+        width: 144
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5972222, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0034
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1233
+        width: 141
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5886525, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0035
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1233
+        width: 141
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5886525, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0036
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1233
+        width: 141
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5886525, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0037
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1233
+        width: 141
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5886525, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0038
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1233
+        width: 139
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5827338, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0039
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 1233
+        width: 141
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5886525, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0040
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 1233
+        width: 141
+        height: 270
+      alignment: 9
+      pivot: {x: 0.61702126, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0041
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 974
+        width: 135
+        height: 257
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5252918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0042
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1000
+        width: 143
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5944056, y: 0.58441556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0043
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1004
+        width: 136
+        height: 227
+      alignment: 9
+      pivot: {x: 0.5808824, y: 0.5947136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0044
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1008
+        width: 135
+        height: 223
+      alignment: 9
+      pivot: {x: 0.56296295, y: 0.6053812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0045
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1018
+        width: 132
+        height: 213
+      alignment: 9
+      pivot: {x: 0.56060606, y: 0.62910795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0046
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1021
+        width: 129
+        height: 210
+      alignment: 9
+      pivot: {x: 0.5503876, y: 0.64285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0047
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1038
+        width: 140
+        height: 193
+      alignment: 9
+      pivot: {x: 0.51428574, y: 0.69948184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0048
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1033
+        width: 147
+        height: 198
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.6818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0049
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1028
+        width: 144
+        height: 203
+      alignment: 9
+      pivot: {x: 0.4722222, y: 0.6600985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0050
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1046
+        width: 157
+        height: 185
+      alignment: 9
+      pivot: {x: 0.4968153, y: 0.7297297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0051
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1083
+        width: 182
+        height: 148
+      alignment: 9
+      pivot: {x: 0.4010989, y: 0.9121622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0052
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1073
+        width: 198
+        height: 158
+      alignment: 9
+      pivot: {x: 0.34848484, y: 0.8544304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0053
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1069
+        width: 204
+        height: 162
+      alignment: 9
+      pivot: {x: 0.3480392, y: 0.8333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0054
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 810
+        width: 190
+        height: 162
+      alignment: 9
+      pivot: {x: 0.35789475, y: 0.8333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0055
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 809
+        width: 188
+        height: 163
+      alignment: 9
+      pivot: {x: 0.3617021, y: 0.82822084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0056
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 809
+        width: 189
+        height: 163
+      alignment: 9
+      pivot: {x: 0.37037036, y: 0.82822084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0057
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 809
+        width: 192
+        height: 163
+      alignment: 9
+      pivot: {x: 0.359375, y: 0.82822084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0058
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 805
+        width: 179
+        height: 167
+      alignment: 9
+      pivot: {x: 0.37988827, y: 0.8083832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0059
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 809
+        width: 194
+        height: 163
+      alignment: 9
+      pivot: {x: 0.35051546, y: 0.82822084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0060
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 810
+        width: 180
+        height: 162
+      alignment: 9
+      pivot: {x: 0.38333333, y: 0.8333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0061
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 808
+        width: 180
+        height: 164
+      alignment: 9
+      pivot: {x: 0.38333333, y: 0.8231707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0062
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 807
+        width: 201
+        height: 165
+      alignment: 9
+      pivot: {x: 0.35323384, y: 0.8181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0063
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 808
+        width: 191
+        height: 164
+      alignment: 9
+      pivot: {x: 0.38743454, y: 0.8231707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0064
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 636
+        width: 187
+        height: 167
+      alignment: 9
+      pivot: {x: 0.37433156, y: 0.8083832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0065
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 637
+        width: 193
+        height: 166
+      alignment: 9
+      pivot: {x: 0.35751295, y: 0.813253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0066
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 636
+        width: 196
+        height: 167
+      alignment: 9
+      pivot: {x: 0.35714287, y: 0.8083832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0067
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 635
+        width: 195
+        height: 168
+      alignment: 9
+      pivot: {x: 0.36410257, y: 0.8035714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0068
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 636
+        width: 194
+        height: 167
+      alignment: 9
+      pivot: {x: 0.36082473, y: 0.8083832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0069
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 636
+        width: 187
+        height: 167
+      alignment: 9
+      pivot: {x: 0.37433156, y: 0.8083832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0070
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 636
+        width: 200
+        height: 167
+      alignment: 9
+      pivot: {x: 0.36, y: 0.8083832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0071
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 637
+        width: 199
+        height: 166
+      alignment: 9
+      pivot: {x: 0.35678393, y: 0.813253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0072
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 636
+        width: 180
+        height: 167
+      alignment: 9
+      pivot: {x: 0.40555555, y: 0.8083832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0073
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 637
+        width: 175
+        height: 166
+      alignment: 9
+      pivot: {x: 0.41142857, y: 0.813253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0074
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 473
+        width: 184
+        height: 160
+      alignment: 9
+      pivot: {x: 0.36956522, y: 0.84375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0075
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 482
+        width: 163
+        height: 151
+      alignment: 9
+      pivot: {x: 0.41104296, y: 0.89403975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0076
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 490
+        width: 184
+        height: 143
+      alignment: 9
+      pivot: {x: 0.38043478, y: 0.9440559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0077
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 493
+        width: 188
+        height: 140
+      alignment: 9
+      pivot: {x: 0.39361703, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0078
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 486
+        width: 182
+        height: 147
+      alignment: 9
+      pivot: {x: 0.3901099, y: 0.9047619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0079
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 484
+        width: 183
+        height: 149
+      alignment: 9
+      pivot: {x: 0.3989071, y: 0.8993289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0080
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 472
+        width: 168
+        height: 161
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.8385093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0081
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 473
+        width: 179
+        height: 160
+      alignment: 9
+      pivot: {x: 0.41340783, y: 0.8375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0082
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 467
+        width: 166
+        height: 166
+      alignment: 9
+      pivot: {x: 0.45180723, y: 0.8072289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0083
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 467
+        width: 162
+        height: 166
+      alignment: 9
+      pivot: {x: 0.45061728, y: 0.813253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0084
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 465
+        width: 153
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5163399, y: 0.8035714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0085
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 290
+        width: 152
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5197368, y: 0.7803468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0086
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 278
+        width: 148
+        height: 185
+      alignment: 9
+      pivot: {x: 0.527027, y: 0.7297297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0087
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 278
+        width: 140
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5642857, y: 0.7297297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0088
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 275
+        width: 138
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5797101, y: 0.7180851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Casting0089
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 272
+        width: 134
+        height: 191
+      alignment: 9
+      pivot: {x: 0.5671642, y: 0.7068063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1028 @@
+fileFormatVersion: 2
+guid: 6ea7d2e0cc3116146b52b62d1e11ccc6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: WalkBack0000
+  - first:
+      213: 21300002
+    second: WalkBack0001
+  - first:
+      213: 21300004
+    second: WalkBack0002
+  - first:
+      213: 21300006
+    second: WalkBack0003
+  - first:
+      213: 21300008
+    second: WalkBack0004
+  - first:
+      213: 21300010
+    second: WalkBack0005
+  - first:
+      213: 21300012
+    second: WalkBack0006
+  - first:
+      213: 21300014
+    second: WalkBack0007
+  - first:
+      213: 21300016
+    second: WalkBack0008
+  - first:
+      213: 21300018
+    second: WalkBack0009
+  - first:
+      213: 21300020
+    second: WalkBack0010
+  - first:
+      213: 21300022
+    second: WalkBack0011
+  - first:
+      213: 21300024
+    second: WalkBack0012
+  - first:
+      213: 21300026
+    second: WalkBack0013
+  - first:
+      213: 21300028
+    second: WalkBack0014
+  - first:
+      213: 21300030
+    second: WalkBack0015
+  - first:
+      213: 21300032
+    second: WalkBack0016
+  - first:
+      213: 21300034
+    second: WalkBack0017
+  - first:
+      213: 21300036
+    second: WalkBack0018
+  - first:
+      213: 21300038
+    second: WalkBack0019
+  - first:
+      213: 21300040
+    second: WalkBack0020
+  - first:
+      213: 21300042
+    second: WalkBack0021
+  - first:
+      213: 21300044
+    second: WalkBack0022
+  - first:
+      213: 21300046
+    second: WalkBack0023
+  - first:
+      213: 21300048
+    second: WalkBack0024
+  - first:
+      213: 21300050
+    second: WalkBack0025
+  - first:
+      213: 21300052
+    second: WalkBack0026
+  - first:
+      213: 21300054
+    second: WalkBack0027
+  - first:
+      213: 21300056
+    second: WalkBack0028
+  - first:
+      213: 21300058
+    second: WalkBack0029
+  - first:
+      213: 21300060
+    second: WalkBack0030
+  - first:
+      213: 21300062
+    second: WalkBack0031
+  - first:
+      213: 21300064
+    second: WalkBack0032
+  - first:
+      213: 21300066
+    second: WalkBack0033
+  - first:
+      213: 21300068
+    second: WalkBack0034
+  - first:
+      213: 21300070
+    second: WalkBack0035
+  - first:
+      213: 21300072
+    second: WalkBack0036
+  - first:
+      213: 21300074
+    second: WalkBack0037
+  - first:
+      213: 21300076
+    second: WalkBack0038
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WalkBack0000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 824
+        width: 103
+        height: 199
+      alignment: 9
+      pivot: {x: 0.3883495, y: 0.6633166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0001
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 825
+        width: 111
+        height: 198
+      alignment: 9
+      pivot: {x: 0.4234234, y: 0.67171717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0002
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 817
+        width: 113
+        height: 206
+      alignment: 9
+      pivot: {x: 0.46902654, y: 0.6407767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0003
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 818
+        width: 120
+        height: 205
+      alignment: 9
+      pivot: {x: 0.49166667, y: 0.6439024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0004
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 827
+        width: 131
+        height: 196
+      alignment: 9
+      pivot: {x: 0.47328246, y: 0.67346936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0005
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 823
+        width: 131
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5038168, y: 0.675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0006
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 819
+        width: 138
+        height: 204
+      alignment: 9
+      pivot: {x: 0.46376812, y: 0.6617647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0007
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 819
+        width: 133
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5112782, y: 0.6617647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 620
+        width: 139
+        height: 195
+      alignment: 9
+      pivot: {x: 0.4820144, y: 0.6769231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0009
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 617
+        width: 129
+        height: 198
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.6818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0010
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 617
+        width: 128
+        height: 198
+      alignment: 9
+      pivot: {x: 0.484375, y: 0.67171717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0011
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 621
+        width: 130
+        height: 194
+      alignment: 9
+      pivot: {x: 0.41538462, y: 0.67525774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0012
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 622
+        width: 123
+        height: 193
+      alignment: 9
+      pivot: {x: 0.42276424, y: 0.68393785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0013
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 626
+        width: 126
+        height: 189
+      alignment: 9
+      pivot: {x: 0.41269842, y: 0.6931217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0014
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 629
+        width: 115
+        height: 186
+      alignment: 9
+      pivot: {x: 0.40869564, y: 0.6989247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0015
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 621
+        width: 111
+        height: 194
+      alignment: 9
+      pivot: {x: 0.4054054, y: 0.6701031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 422
+        width: 105
+        height: 193
+      alignment: 9
+      pivot: {x: 0.37142858, y: 0.6632124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0017
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 427
+        width: 103
+        height: 188
+      alignment: 9
+      pivot: {x: 0.34951457, y: 0.6861702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0018
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 425
+        width: 106
+        height: 190
+      alignment: 9
+      pivot: {x: 0.36792454, y: 0.6894737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0019
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 421
+        width: 109
+        height: 194
+      alignment: 9
+      pivot: {x: 0.41284403, y: 0.6597938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0020
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 420
+        width: 120
+        height: 195
+      alignment: 9
+      pivot: {x: 0.425, y: 0.6615385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0021
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 410
+        width: 130
+        height: 205
+      alignment: 9
+      pivot: {x: 0.44615385, y: 0.6292683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0022
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 420
+        width: 132
+        height: 195
+      alignment: 9
+      pivot: {x: 0.49242425, y: 0.6717949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0023
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 413
+        width: 136
+        height: 202
+      alignment: 9
+      pivot: {x: 0.50735295, y: 0.64356434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0024
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 208
+        width: 132
+        height: 200
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0025
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 211
+        width: 136
+        height: 197
+      alignment: 9
+      pivot: {x: 0.5514706, y: 0.6852792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0026
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 214
+        width: 133
+        height: 194
+      alignment: 9
+      pivot: {x: 0.5488722, y: 0.68041235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0027
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 216
+        width: 120
+        height: 192
+      alignment: 9
+      pivot: {x: 0.51666665, y: 0.6822917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0028
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 213
+        width: 120
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5083333, y: 0.6717949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0029
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 212
+        width: 116
+        height: 196
+      alignment: 9
+      pivot: {x: 0.5086207, y: 0.68367344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0030
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 214
+        width: 107
+        height: 194
+      alignment: 9
+      pivot: {x: 0.48598132, y: 0.68041235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0031
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 207
+        width: 107
+        height: 201
+      alignment: 9
+      pivot: {x: 0.44859812, y: 0.6567164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0032
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5
+        width: 99
+        height: 200
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0033
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 6
+        width: 103
+        height: 199
+      alignment: 9
+      pivot: {x: 0.4368932, y: 0.6683417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0034
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1
+        width: 100
+        height: 204
+      alignment: 9
+      pivot: {x: 0.42, y: 0.6617647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0035
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 4
+        width: 98
+        height: 201
+      alignment: 9
+      pivot: {x: 0.4387755, y: 0.6567164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0036
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 6
+        width: 102
+        height: 199
+      alignment: 9
+      pivot: {x: 0.4019608, y: 0.67839193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0037
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 8
+        width: 103
+        height: 197
+      alignment: 9
+      pivot: {x: 0.37864077, y: 0.67005074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack0038
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 6
+        width: 103
+        height: 199
+      alignment: 9
+      pivot: {x: 0.3883495, y: 0.6633166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

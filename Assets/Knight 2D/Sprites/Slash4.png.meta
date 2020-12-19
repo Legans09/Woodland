@@ -1,0 +1,1868 @@
+fileFormatVersion: 2
+guid: 0da0e4c5c796bc04fb6586e1e6a1d798
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 4Slash0000
+  - first:
+      213: 21300002
+    second: 4Slash0001
+  - first:
+      213: 21300004
+    second: 4Slash0002
+  - first:
+      213: 21300006
+    second: 4Slash0003
+  - first:
+      213: 21300008
+    second: 4Slash0004
+  - first:
+      213: 21300010
+    second: 4Slash0005
+  - first:
+      213: 21300012
+    second: 4Slash0006
+  - first:
+      213: 21300014
+    second: 4Slash0007
+  - first:
+      213: 21300016
+    second: 4Slash0008
+  - first:
+      213: 21300018
+    second: 4Slash0009
+  - first:
+      213: 21300020
+    second: 4Slash0010
+  - first:
+      213: 21300022
+    second: 4Slash0011
+  - first:
+      213: 21300024
+    second: 4Slash0012
+  - first:
+      213: 21300026
+    second: 4Slash0013
+  - first:
+      213: 21300028
+    second: 4Slash0014
+  - first:
+      213: 21300030
+    second: 4Slash0015
+  - first:
+      213: 21300032
+    second: 4Slash0016
+  - first:
+      213: 21300034
+    second: 4Slash0017
+  - first:
+      213: 21300036
+    second: 4Slash0018
+  - first:
+      213: 21300038
+    second: 4Slash0019
+  - first:
+      213: 21300040
+    second: 4Slash0020
+  - first:
+      213: 21300042
+    second: 4Slash0021
+  - first:
+      213: 21300044
+    second: 4Slash0022
+  - first:
+      213: 21300046
+    second: 4Slash0023
+  - first:
+      213: 21300048
+    second: 4Slash0024
+  - first:
+      213: 21300050
+    second: 4Slash0025
+  - first:
+      213: 21300052
+    second: 4Slash0026
+  - first:
+      213: 21300054
+    second: 4Slash0027
+  - first:
+      213: 21300056
+    second: 4Slash0028
+  - first:
+      213: 21300058
+    second: 4Slash0029
+  - first:
+      213: 21300060
+    second: 4Slash0030
+  - first:
+      213: 21300062
+    second: 4Slash0031
+  - first:
+      213: 21300064
+    second: 4Slash0032
+  - first:
+      213: 21300066
+    second: 4Slash0033
+  - first:
+      213: 21300068
+    second: 4Slash0034
+  - first:
+      213: 21300070
+    second: 4Slash0035
+  - first:
+      213: 21300072
+    second: 4Slash0036
+  - first:
+      213: 21300074
+    second: 4Slash0037
+  - first:
+      213: 21300076
+    second: 4Slash0038
+  - first:
+      213: 21300078
+    second: 4Slash0039
+  - first:
+      213: 21300080
+    second: 4Slash0040
+  - first:
+      213: 21300082
+    second: 4Slash0041
+  - first:
+      213: 21300084
+    second: 4Slash0042
+  - first:
+      213: 21300086
+    second: 4Slash0043
+  - first:
+      213: 21300088
+    second: 4Slash0044
+  - first:
+      213: 21300090
+    second: 4Slash0045
+  - first:
+      213: 21300092
+    second: 4Slash0046
+  - first:
+      213: 21300094
+    second: 4Slash0047
+  - first:
+      213: 21300096
+    second: 4Slash0048
+  - first:
+      213: 21300098
+    second: 4Slash0049
+  - first:
+      213: 21300100
+    second: 4Slash0050
+  - first:
+      213: 21300102
+    second: 4Slash0051
+  - first:
+      213: 21300104
+    second: 4Slash0052
+  - first:
+      213: 21300106
+    second: 4Slash0053
+  - first:
+      213: 21300108
+    second: 4Slash0054
+  - first:
+      213: 21300110
+    second: 4Slash0055
+  - first:
+      213: 21300112
+    second: 4Slash0056
+  - first:
+      213: 21300114
+    second: 4Slash0057
+  - first:
+      213: 21300116
+    second: 4Slash0058
+  - first:
+      213: 21300118
+    second: 4Slash0059
+  - first:
+      213: 21300120
+    second: 4Slash0060
+  - first:
+      213: 21300122
+    second: 4Slash0061
+  - first:
+      213: 21300124
+    second: 4Slash0062
+  - first:
+      213: 21300126
+    second: 4Slash0063
+  - first:
+      213: 21300128
+    second: 4Slash0064
+  - first:
+      213: 21300130
+    second: 4Slash0065
+  - first:
+      213: 21300132
+    second: 4Slash0066
+  - first:
+      213: 21300134
+    second: 4Slash0067
+  - first:
+      213: 21300136
+    second: 4Slash0068
+  - first:
+      213: 21300138
+    second: 4Slash0069
+  - first:
+      213: 21300140
+    second: 4Slash0070
+  - first:
+      213: 21300142
+    second: 4Slash0071
+  - first:
+      213: 21300144
+    second: 4Slash0072
+  - first:
+      213: 21300146
+    second: 4Slash0073
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 4Slash0000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 832
+        width: 116
+        height: 191
+      alignment: 9
+      pivot: {x: 0.61206895, y: 0.7068063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0001
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 838
+        width: 116
+        height: 185
+      alignment: 9
+      pivot: {x: 0.61206895, y: 0.7297297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0002
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 840
+        width: 118
+        height: 183
+      alignment: 9
+      pivot: {x: 0.60169494, y: 0.73770493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0003
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 839
+        width: 121
+        height: 184
+      alignment: 9
+      pivot: {x: 0.58677685, y: 0.7336956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0004
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 837
+        width: 126
+        height: 186
+      alignment: 9
+      pivot: {x: 0.56349206, y: 0.7258065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0005
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 836
+        width: 117
+        height: 187
+      alignment: 9
+      pivot: {x: 0.52991456, y: 0.72192514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0006
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 838
+        width: 108
+        height: 185
+      alignment: 9
+      pivot: {x: 0.46296296, y: 0.7189189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0007
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 837
+        width: 98
+        height: 186
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.72043014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0008
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 835
+        width: 91
+        height: 188
+      alignment: 9
+      pivot: {x: 0.36263737, y: 0.7180851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0009
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 838
+        width: 91
+        height: 185
+      alignment: 9
+      pivot: {x: 0.36263737, y: 0.7297297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0010
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 839
+        width: 93
+        height: 184
+      alignment: 9
+      pivot: {x: 0.34408602, y: 0.7336956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0011
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 842
+        width: 97
+        height: 181
+      alignment: 9
+      pivot: {x: 0.3298969, y: 0.74585634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0012
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 845
+        width: 105
+        height: 178
+      alignment: 9
+      pivot: {x: 0.31428573, y: 0.75842696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0013
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 847
+        width: 114
+        height: 176
+      alignment: 9
+      pivot: {x: 0.28947368, y: 0.76704544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0014
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 849
+        width: 122
+        height: 174
+      alignment: 9
+      pivot: {x: 0.2704918, y: 0.7758621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0015
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 848
+        width: 129
+        height: 175
+      alignment: 9
+      pivot: {x: 0.25581396, y: 0.7714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0016
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 852
+        width: 130
+        height: 171
+      alignment: 9
+      pivot: {x: 0.23846154, y: 0.7719298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0017
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 657
+        width: 154
+        height: 173
+      alignment: 9
+      pivot: {x: 0.25324675, y: 0.7630058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0018
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 656
+        width: 167
+        height: 174
+      alignment: 9
+      pivot: {x: 0.28143713, y: 0.75287354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0019
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 655
+        width: 169
+        height: 175
+      alignment: 9
+      pivot: {x: 0.2781065, y: 0.74857146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0020
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 650
+        width: 162
+        height: 180
+      alignment: 9
+      pivot: {x: 0.28395063, y: 0.73333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0021
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 643
+        width: 152
+        height: 187
+      alignment: 9
+      pivot: {x: 0.26973686, y: 0.70053476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0022
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 637
+        width: 138
+        height: 193
+      alignment: 9
+      pivot: {x: 0.23188406, y: 0.6735751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0023
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 628
+        width: 131
+        height: 202
+      alignment: 9
+      pivot: {x: 0.20610687, y: 0.64851487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0024
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 623
+        width: 126
+        height: 207
+      alignment: 9
+      pivot: {x: 0.1904762, y: 0.6183575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0025
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 628
+        width: 116
+        height: 202
+      alignment: 9
+      pivot: {x: 0.1637931, y: 0.5841584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0026
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 629
+        width: 114
+        height: 201
+      alignment: 9
+      pivot: {x: 0.14035088, y: 0.5572139}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0027
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 630
+        width: 103
+        height: 200
+      alignment: 9
+      pivot: {x: 0.097087376, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0028
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 635
+        width: 96
+        height: 195
+      alignment: 9
+      pivot: {x: 0.072916664, y: 0.50769234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0029
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 642
+        width: 113
+        height: 188
+      alignment: 9
+      pivot: {x: 0.088495575, y: 0.47340426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0030
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 642
+        width: 135
+        height: 188
+      alignment: 9
+      pivot: {x: 0.16296296, y: 0.4574468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0031
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 441
+        width: 154
+        height: 180
+      alignment: 9
+      pivot: {x: 0.20779221, y: 0.42777777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0032
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 444
+        width: 159
+        height: 177
+      alignment: 9
+      pivot: {x: 0.2327044, y: 0.4180791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0033
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 438
+        width: 165
+        height: 183
+      alignment: 9
+      pivot: {x: 0.25454545, y: 0.43715847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0034
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 432
+        width: 159
+        height: 189
+      alignment: 9
+      pivot: {x: 0.25786164, y: 0.47089946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0035
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 424
+        width: 148
+        height: 197
+      alignment: 9
+      pivot: {x: 0.25, y: 0.51269037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0036
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 423
+        width: 133
+        height: 198
+      alignment: 9
+      pivot: {x: 0.22556391, y: 0.56060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0037
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 418
+        width: 125
+        height: 203
+      alignment: 9
+      pivot: {x: 0.16, y: 0.6059113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0038
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 419
+        width: 129
+        height: 202
+      alignment: 9
+      pivot: {x: 0.093023255, y: 0.6633663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0039
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 423
+        width: 136
+        height: 198
+      alignment: 9
+      pivot: {x: 0.007352941, y: 0.6818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0040
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 417
+        width: 129
+        height: 204
+      alignment: 9
+      pivot: {x: -0.054263566, y: 0.6617647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0041
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 454
+        width: 136
+        height: 167
+      alignment: 9
+      pivot: {x: -0.16176471, y: 0.8083832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0042
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 486
+        width: 159
+        height: 135
+      alignment: 9
+      pivot: {x: -0.2327044, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0043
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 493
+        width: 138
+        height: 128
+      alignment: 9
+      pivot: {x: -0.28985506, y: 1.0546875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0044
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 500
+        width: 138
+        height: 121
+      alignment: 9
+      pivot: {x: -0.3115942, y: 1.1157025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0045
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 301
+        width: 135
+        height: 114
+      alignment: 9
+      pivot: {x: -0.31851852, y: 1.1842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0046
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 302
+        width: 133
+        height: 113
+      alignment: 9
+      pivot: {x: -0.33082706, y: 1.1946902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0047
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 305
+        width: 139
+        height: 110
+      alignment: 9
+      pivot: {x: -0.30215827, y: 1.2272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0048
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 307
+        width: 133
+        height: 108
+      alignment: 9
+      pivot: {x: -0.33834586, y: 1.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0049
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 307
+        width: 132
+        height: 108
+      alignment: 9
+      pivot: {x: -0.34848484, y: 1.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0050
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 305
+        width: 135
+        height: 110
+      alignment: 9
+      pivot: {x: -0.32592592, y: 1.2272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0051
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 302
+        width: 133
+        height: 113
+      alignment: 9
+      pivot: {x: -0.35338345, y: 1.1946902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0052
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 299
+        width: 139
+        height: 116
+      alignment: 9
+      pivot: {x: -0.33093524, y: 1.1637931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0053
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 292
+        width: 136
+        height: 123
+      alignment: 9
+      pivot: {x: -0.3382353, y: 1.097561}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0054
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 286
+        width: 139
+        height: 129
+      alignment: 9
+      pivot: {x: -0.33093524, y: 1.0465117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0055
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 281
+        width: 135
+        height: 134
+      alignment: 9
+      pivot: {x: -0.34074074, y: 1.0074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0056
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 279
+        width: 135
+        height: 136
+      alignment: 9
+      pivot: {x: -0.34814814, y: 0.99264705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0057
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 272
+        width: 138
+        height: 143
+      alignment: 9
+      pivot: {x: -0.3478261, y: 0.9440559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0058
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 268
+        width: 130
+        height: 147
+      alignment: 9
+      pivot: {x: -0.3846154, y: 0.9183673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0059
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 112
+        width: 127
+        height: 154
+      alignment: 9
+      pivot: {x: -0.4015748, y: 0.8766234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0060
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 106
+        width: 125
+        height: 160
+      alignment: 9
+      pivot: {x: -0.424, y: 0.84375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0061
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 101
+        width: 129
+        height: 165
+      alignment: 9
+      pivot: {x: -0.4108527, y: 0.8181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0062
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 96
+        width: 130
+        height: 170
+      alignment: 9
+      pivot: {x: -0.4, y: 0.7941176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0063
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 92
+        width: 135
+        height: 174
+      alignment: 9
+      pivot: {x: -0.34814814, y: 0.7758621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0064
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 86
+        width: 140
+        height: 180
+      alignment: 9
+      pivot: {x: -0.30714285, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0065
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 84
+        width: 142
+        height: 182
+      alignment: 9
+      pivot: {x: -0.28169015, y: 0.7417582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0066
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 82
+        width: 144
+        height: 184
+      alignment: 9
+      pivot: {x: -0.27083334, y: 0.7336956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0067
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 82
+        width: 137
+        height: 184
+      alignment: 9
+      pivot: {x: -0.28467155, y: 0.7336956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0068
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 83
+        width: 133
+        height: 183
+      alignment: 9
+      pivot: {x: -0.2932331, y: 0.73770493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0069
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 84
+        width: 127
+        height: 182
+      alignment: 9
+      pivot: {x: -0.30708662, y: 0.7417582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0070
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 84
+        width: 121
+        height: 182
+      alignment: 9
+      pivot: {x: -0.3140496, y: 0.7417582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0071
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 85
+        width: 118
+        height: 181
+      alignment: 9
+      pivot: {x: -0.3220339, y: 0.74585634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0072
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 79
+        width: 110
+        height: 187
+      alignment: 9
+      pivot: {x: -0.35454544, y: 0.72192514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Slash0073
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 74
+        width: 111
+        height: 192
+      alignment: 9
+      pivot: {x: -0.34234235, y: 0.703125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

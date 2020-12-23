@@ -8,14 +8,15 @@ public class AudioManager : MonoBehaviour
 
 
     public Sound[] sounds;
+
     
     
     WaitForSeconds wait = new WaitForSeconds(2f);
 
 
-    // Start is called before the first frame update
     void Awake()
     {
+
         foreach (Sound s in sounds)
         {
             s.source = gameObject.AddComponent<AudioSource>();
@@ -30,8 +31,12 @@ public class AudioManager : MonoBehaviour
     public void Play(string name)
     {
         Sound s =Array.Find(sounds, sound => sound.name == name);
+
+
+            s.source.Play();
+
         
-        s.source.Play();
+          
 
      }
 

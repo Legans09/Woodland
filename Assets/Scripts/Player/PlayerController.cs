@@ -13,7 +13,7 @@ public class PlayerController : MonoBehaviour
     public Animator slashAnimator;
     public GameObject slash;
     private Rigidbody2D rb2d;
-    public float walkDelay = 2f;
+    public float walkDelay = 1.6f;
     
     public BetterJump jumpControl;
     public AttackController attackControl;
@@ -43,12 +43,21 @@ public class PlayerController : MonoBehaviour
 
         if (Input.GetButtonDown("Horizontal"))
         {
-            FindObjectOfType<AudioManager>().PlayLoop("Walking");
-
+            if (movement.getAcceleration() > 1f)
+            {
+                FindObjectOfType<AudioManager>().Play("FastWalking");
+            }
+            else 
+            {
+                FindObjectOfType<AudioManager>().Play("Walking");
+            }        
         }
+
         if (Input.GetButtonUp("Horizontal"))
         {
-            Invoke("stopWalking", walkDelay);
+            // Invoke("stopWalking", walkDelay);
+            FindObjectOfType<AudioManager>().Stop("Walking");
+            FindObjectOfType<AudioManager>().Stop("FastWalking");
         }
 
         //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -85,10 +94,8 @@ public class PlayerController : MonoBehaviour
     //Finish walking sound
     private void stopWalking() {
 
-        FindObjectOfType<AudioManager>().StopLoop("Walking");
-        if (Input.GetButtonDown("Horizontal")) {
-            FindObjectOfType<AudioManager>().PlayLoop("Walking");
-        }
+        FindObjectOfType<AudioManager>().Stop("Walking");
+        
     }
 
 

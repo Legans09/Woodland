@@ -154,5 +154,8 @@ public class PlayerMovement : MonoBehaviour
 
 
 
-
+    public float getAcceleration()
+    {
+        return acceleration;
+    }
 }

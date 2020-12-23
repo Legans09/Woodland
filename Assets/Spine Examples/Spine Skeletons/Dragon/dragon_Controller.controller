@@ -110,7 +110,7 @@ AnimatorController:
     m_Controller: {fileID: 9100000}
 --- !u!1107 &1308077995702132365
 AnimatorStateMachine:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}

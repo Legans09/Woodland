@@ -24,7 +24,7 @@ public class PlayerController : MonoBehaviour
     public float attackDuration;
     public float healDuration;
     public PlayerMovement movement;
-
+   
   
 
     
@@ -32,6 +32,7 @@ public class PlayerController : MonoBehaviour
     {
         attackControl = FindObjectOfType<AttackController>();
         rb2d = GetComponent<Rigidbody2D>();
+        
        
     }
 

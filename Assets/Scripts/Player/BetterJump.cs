@@ -13,6 +13,11 @@ public class BetterJump : MonoBehaviour
     private bool diableJump = false;
     
     private bool dialogue = false;
+
+    public trailSmokeController trail;
+    
+
+
     public LayerMask groundLayers;
 
     [Range(0, 1)]
@@ -28,7 +33,8 @@ public class BetterJump : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         characterAnimator = GetComponentInChildren<Animator>();
-        
+        trail = FindObjectOfType<trailSmokeController>();
+
     }
 
     void  Update()    
@@ -48,6 +54,7 @@ public class BetterJump : MonoBehaviour
         {
             jumping = true;
             grounded = false;
+            trail.setGrounded(false);
             characterAnimator.SetBool("jumping", jumping);
             FindObjectOfType<AudioManager>().Play("Jump");
 
@@ -93,6 +100,7 @@ public class BetterJump : MonoBehaviour
     public void setGrounded() {
 
         grounded = true;
+        trail.setGrounded(true);
        // Debug.Log("Grounded!");
     
     }

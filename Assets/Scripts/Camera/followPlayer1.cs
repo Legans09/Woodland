@@ -21,11 +21,11 @@ public class followPlayer1 : MonoBehaviour
 
     void FixedUpdate()
 	{
-		if (Input.GetKey("d") && !dialogue)
+		if ((Input.GetKey(KeyCode.RightArrow) || Input.GetKey("d")) && !dialogue)
 		{
 			faceRight = true;
 		}
-		if (Input.GetKey("a") && !dialogue)
+		if (((Input.GetKey(KeyCode.LeftArrow) || Input.GetKey("a"))) && !dialogue)
 		{
 
 			faceRight = false;

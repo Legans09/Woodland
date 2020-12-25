@@ -24,6 +24,7 @@ public class PlayerController : MonoBehaviour
     public float attackDuration;
     public float healDuration;
     public PlayerMovement movement;
+
    
   
 

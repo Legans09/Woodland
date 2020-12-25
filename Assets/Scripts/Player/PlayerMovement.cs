@@ -9,6 +9,7 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D rb2d;
     public Animator characterAnimator;
     public Transform player;
+    public trailSmokeController trail;
     
     public bool left = false;
     public bool pushRight = false;
@@ -34,10 +35,11 @@ public class PlayerMovement : MonoBehaviour
     private void Awake()
     {
         rb2d = GetComponent<Rigidbody2D>();
+        trail = FindObjectOfType<trailSmokeController>();
       
     }
 
-    void Update()
+    void FixedUpdate()
    
     {
 
@@ -92,6 +94,7 @@ public class PlayerMovement : MonoBehaviour
                 //Rotate Left Animation 
                 rb2d.AddForce(turn * Time.deltaTime * speed);
                 left = true;
+                trail.setFaceRight(false);
             }
         }
         if (((Input.GetKey("right")) || Input.GetKey("d")) && dialogue == false)
@@ -106,6 +109,7 @@ public class PlayerMovement : MonoBehaviour
 
                 player.Rotate(rotateRight);
                 left = false;
+                trail.setFaceRight(true);
             }
 
         }

@@ -7,12 +7,12 @@ public class jumpTrigger : MonoBehaviour
 
 
     public Animator animator;
-    public BetterJump jumpControl;
+    public JumpController jumpControl;
 
 
     private void Awake()
     {
-        jumpControl = FindObjectOfType<BetterJump>();
+        jumpControl = FindObjectOfType<JumpController>();
     }
 
 

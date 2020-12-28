@@ -33,7 +33,7 @@ public class trigger2 : MonoBehaviour
            // Debug.Log("Triggered!");
             FindObjectOfType<DialogueManager>().StartDialogue(dialogue);
             FindObjectOfType<trigger3>().setNext();
-            FindObjectOfType<BetterJump>().setJump(true);
+            FindObjectOfType<JumpController>().setJump(true);
             Invoke("enableJump", 7f);
 
             triggered = true;
@@ -47,7 +47,7 @@ public class trigger2 : MonoBehaviour
      void enableJump()
     {
 
-        FindObjectOfType<BetterJump>().setJump(false);
+        FindObjectOfType<JumpController>().setJump(false);
     }
 
 }

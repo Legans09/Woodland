@@ -1,6 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
+
 using UnityEngine;
+
 
 public class trailSmokeController : MonoBehaviour
 {
@@ -25,11 +25,6 @@ public class trailSmokeController : MonoBehaviour
     {
         particleS = GetComponentInChildren<ParticleSystem>();
     }
-    private void Start()
-    {
-      //  particleS.Stop(true);
-    }
-
 
     public void setGrounded(bool isGrounded)
     {
@@ -41,35 +36,12 @@ public class trailSmokeController : MonoBehaviour
     {
         if (Input.GetButton("Horizontal") )
         {
-
-            //backTrail.SetActive(true);
             particleS.enableEmission = true;
-            //        frontTrail.SetActive(true);
-
-            // if (Input.GetKey("right"))
-            /*
-             if ((Input.GetKey(KeyCode.RightArrow) || Input.GetKey("d")) && !faceRight)
-                 {
-                 frontTrailTransform.Rotate(rotateRight);
-                 backTrailTransform.Rotate(rotateRight);
-                   }
-             else if(Input.GetKey(KeyCode.LeftArrow) || Input.GetKey("a") && faceRight)
-             {
-                 frontTrailTransform.Rotate(rotateLeft);
-                 backTrailTransform.Rotate(rotateLeft);
-             }
-            */
         }
         else
         {
-            //  backTrail.SetActive(false);
-
-
-            // frontTrail.SetActive(false);
-            //   particleS.Stop(true);
             particleS.enableEmission = false;
             Debug.Log("boom");
-          //  Invoke("endTrail", endDelay);
         }
     }
 
@@ -81,9 +53,7 @@ public class trailSmokeController : MonoBehaviour
             if (!isFaceRight) 
             {
                 backTrailTransform.Rotate(rotateRight);
-
             }
-        
         }
 
         if (!faceRight)

@@ -15,7 +15,7 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D rb2d;
     public float walkDelay = 1.6f;
     
-    public BetterJump jumpControl;
+    public JumpController jumpControl;
     public AttackController attackControl;
 
     public bool attacking=false;

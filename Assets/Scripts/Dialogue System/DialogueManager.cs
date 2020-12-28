@@ -12,7 +12,7 @@ public class DialogueManager : MonoBehaviour
     public TMP_Text dialougueText;
     public diaBoxController diaboxPlayer;
     public diaBoxController diaboxNPC;
-    public BetterJump jumpControl;
+    public JumpController jumpControl;
     public PlayerMovement movement;
     public followPlayer1 camControl;
     private bool isRunning = false;
@@ -24,7 +24,7 @@ public class DialogueManager : MonoBehaviour
 
     void Start() {
         sentences = new Queue<string>();
-        jumpControl = FindObjectOfType<BetterJump>();
+        jumpControl = FindObjectOfType<JumpController>();
         movement = FindObjectOfType<PlayerMovement>();
         camControl = FindObjectOfType<followPlayer1>();
     

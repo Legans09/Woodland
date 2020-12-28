@@ -5,7 +5,7 @@ public class playerCollision : MonoBehaviour
 {
 
    
-    public BetterJump jumpControl;
+    public JumpController jumpControl;
     public Rigidbody2D rb2d;
     public GameManager gameManager;
 

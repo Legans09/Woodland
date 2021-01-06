@@ -11,11 +11,12 @@ public class PlayerMovement : MonoBehaviour
     public Transform player;
     public trailSmokeController trail;
     
-    public bool left = false;
+    public bool facingLeft = false;
     public bool pushRight = false;
     public bool pushLeft = false;
     //private bool pause = false;
     private bool dialogue = false;
+    private bool jumping = false;
 
     public float restartDelay = 10f;
     public float acceleration;
@@ -50,13 +51,11 @@ public class PlayerMovement : MonoBehaviour
        
         if (rb2d.position.y < -4f) 
         {
-
             FindObjectOfType<GameManager>().EndGame();
-
         }
 
 
-        if ((Input.GetButton("Horizontal") && dialogue == false)|| pushRight||pushLeft)
+        if ((Input.GetButton("Horizontal") && !dialogue)|| pushRight||pushLeft)
 
         {
             float moveHorizontal = Input.GetAxis("Horizontal");        
@@ -75,7 +74,7 @@ public class PlayerMovement : MonoBehaviour
 
 
 
-            if (acceleration < 2)
+            if (acceleration < 2 && rb2d.velocity.x > 0.01f )
                 acceleration += 0.012f;
             characterAnimator.SetFloat("speed", acceleration);
         }
@@ -87,17 +86,16 @@ public class PlayerMovement : MonoBehaviour
         }
 
 
-        if (((Input.GetKey("left")) ||Input.GetKey("a")) && dialogue == false)
+        if (((Input.GetKey("left")) ||Input.GetKey("a")) && !dialogue )
         {
             
-            if (left == false)
+            if (!facingLeft)
             {
-                Vector2 turn = new Vector2(turnSpeed, 0f);
+              
 
-                //Rotate Left Animation 
-                // player.Rotate(rotateLeft);
+                
 
-                if (acceleration > 1f)
+                if (acceleration > 1f && rb2d.velocity.x > 2f)
                 {
                     Invoke("lRotate", rotateDelay);
                     characterAnimator.SetBool("turn", true);
@@ -107,22 +105,22 @@ public class PlayerMovement : MonoBehaviour
                     player.Rotate(rotateLeft);
                 }
 
-                rb2d.AddForce(turn * Time.deltaTime * speed);
-                left = true;
+                
+                facingLeft = true;
                 trail.setFaceRight(false);
             }
         }
         if (((Input.GetKey("right")) || Input.GetKey("d")) && !dialogue )
         {
-            if (left == true)
+            if (facingLeft)
             {
-                Vector2 turn = new Vector2(-turnSpeed, 0f);
+                
 
                 //Rotate Right Animation 
                 //player.Rotate(rotateRight);
 
 
-                if (acceleration > 1f)
+                if (acceleration > 1f && !jumping)
                 {
                     Invoke("rRotate", rotateDelay);
                     characterAnimator.SetBool("turn", true);
@@ -132,10 +130,7 @@ public class PlayerMovement : MonoBehaviour
                     player.Rotate(rotateRight);
                 }
 
-                rb2d.AddForce(turn * Time.deltaTime * speed);
-
-              
-                left = false;
+                facingLeft = false;
                 trail.setFaceRight(true);
             }
 
@@ -206,6 +201,11 @@ public class PlayerMovement : MonoBehaviour
     {
         characterAnimator.SetBool("turn", false);
         player.Rotate(rotateRight);
+    }
+
+    internal void setJumping(bool isJumping)
+    {
+        jumping = isJumping;
     }
 
 }

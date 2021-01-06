@@ -38,9 +38,5 @@ public class GameManager : MonoBehaviour
 
  
 
-    public void addBonus() {
-
-        score += bonus;
-    }
 
 }

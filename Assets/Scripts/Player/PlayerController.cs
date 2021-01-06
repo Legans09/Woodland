@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -37,12 +38,12 @@ public class PlayerController : MonoBehaviour
        
     }
 
-    void FixedUpdate()
+    void Update()
     {
         //Sounds~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
             //Control character walking sounds
-
+            
         if (Input.GetButtonDown("Horizontal"))
         {
             if (movement.getAcceleration() > 1f)
@@ -83,6 +84,11 @@ public class PlayerController : MonoBehaviour
             Invoke("healStop", healDuration);
 
         }
+    }
+
+    internal void setJumping(bool isJumping)
+    {
+        jumping = isJumping;
     }
 
 

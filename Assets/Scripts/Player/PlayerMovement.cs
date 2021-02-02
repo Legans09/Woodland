@@ -43,7 +43,7 @@ public class PlayerMovement : MonoBehaviour
       
     }
 
-    void FixedUpdate()
+    void Update()
    
     {
 
@@ -58,9 +58,11 @@ public class PlayerMovement : MonoBehaviour
         if ((Input.GetButton("Horizontal") && !dialogue)|| pushRight||pushLeft)
 
         {
-            float moveHorizontal = Input.GetAxis("Horizontal");        
+            
+            float moveHorizontal = Input.GetAxis("Horizontal");
+            
             Vector2 movement = new Vector2(moveHorizontal, 0f);
-
+            /*
             if (pushLeft)
             {
                 movement = leftVec;
@@ -69,10 +71,10 @@ public class PlayerMovement : MonoBehaviour
             {
                 movement = rightVec;
             }
-
+             */
             rb2d.AddForce(movement * Time.deltaTime * speed);
-
-
+            
+           
 
             if (acceleration < 2 && rb2d.velocity.x > 0.01f )
                 acceleration += 0.012f;

@@ -46,8 +46,6 @@ public class PlayerMovement : MonoBehaviour
     void Update()
    
     {
-
-
        
         if (rb2d.position.y < -4f) 
         {
@@ -55,7 +53,7 @@ public class PlayerMovement : MonoBehaviour
         }
 
 
-        if ((Input.GetButton("Horizontal") && !dialogue)|| pushRight||pushLeft)
+        if (Input.GetButton("Horizontal") && !dialogue)
 
         {
             
@@ -76,27 +74,21 @@ public class PlayerMovement : MonoBehaviour
             
            
 
-            if (acceleration < 2 && rb2d.velocity.x > 0.01f )
+         if (acceleration < 2 && rb2d.velocity.x > 0.0001f )
                 acceleration += 0.012f;
             characterAnimator.SetFloat("speed", acceleration);
         }
         else
         {
-            if (acceleration > 0)
+            if (acceleration > 0.029)
                 acceleration -= 0.029f;
             characterAnimator.SetFloat("speed", acceleration);
         }
 
-
         if (((Input.GetKey("left")) ||Input.GetKey("a")) && !dialogue )
-        {
-            
+        {   
             if (!facingLeft)
             {
-              
-
-                
-
                 if (acceleration > 1f && rb2d.velocity.x > 2f)
                 {
                     Invoke("lRotate", rotateDelay);

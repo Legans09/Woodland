@@ -86,7 +86,7 @@ public class JumpController : MonoBehaviour
     void jumpEnd()
     {
         jumping = false;
-        Invoke("setGrounded", 0.5f);
+        Invoke("setGrounded", 0.7f);
 
         characterAnimator.SetBool("jumping", jumping);
         FindObjectOfType<AudioManager>().Stop("Jump");

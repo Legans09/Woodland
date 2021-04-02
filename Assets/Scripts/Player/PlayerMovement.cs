@@ -21,6 +21,7 @@ public class PlayerMovement : MonoBehaviour
     public float restartDelay = 10f;
     public float acceleration;
     public float speed;
+    private float moveHorizontal;
 
     [Range(0, 1)]
     public float rotateDelay = 1f;
@@ -30,6 +31,7 @@ public class PlayerMovement : MonoBehaviour
     private Vector3 rotateRight = new Vector3(0, 180, 0);
     private Vector2 rightVec = new Vector3(1f, 0f);
     private Vector2 leftVec = new Vector3(0f, 1f);
+    private Vector2 movement;
 
     [Range( 0,10)]
     public float turnSpeed = 1.3f;
@@ -46,7 +48,12 @@ public class PlayerMovement : MonoBehaviour
     void Update()
    
     {
-       
+
+        if (rb2d.velocity.x < 0.0001f && rb2d.velocity.x > -0.0001f)
+        {
+            acceleration = 0f;
+        }
+
         if (rb2d.position.y < -4f) 
         {
             FindObjectOfType<GameManager>().EndGame();
@@ -57,9 +64,10 @@ public class PlayerMovement : MonoBehaviour
 
         {
             
-            float moveHorizontal = Input.GetAxis("Horizontal");
+            moveHorizontal = Input.GetAxis("Horizontal");
+                movement = new Vector2(moveHorizontal, 0f);
             
-            Vector2 movement = new Vector2(moveHorizontal, 0f);
+            
             /*
             if (pushLeft)
             {
@@ -70,20 +78,21 @@ public class PlayerMovement : MonoBehaviour
                 movement = rightVec;
             }
              */
-            rb2d.AddForce(movement * Time.deltaTime * speed);
+            rb2d.AddForce(movement * Time.deltaTime * speed );
             
            
 
-         if (acceleration < 2 && rb2d.velocity.x > 0.0001f )
+         if (acceleration < 2 && (rb2d.velocity.x > 0.0001f || rb2d.velocity.x < 0.0001f) )
                 acceleration += 0.012f;
             characterAnimator.SetFloat("speed", acceleration);
         }
         else
         {
-            if (acceleration > 0.029)
+            if (acceleration > 0.02)
                 acceleration -= 0.029f;
             characterAnimator.SetFloat("speed", acceleration);
         }
+
 
         if (((Input.GetKey("left")) ||Input.GetKey("a")) && !dialogue )
         {   
@@ -98,8 +107,6 @@ public class PlayerMovement : MonoBehaviour
                 {
                     player.Rotate(rotateLeft);
                 }
-
-                
                 facingLeft = true;
                 trail.setFaceRight(false);
             }

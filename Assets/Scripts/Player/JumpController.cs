@@ -39,16 +39,34 @@ public class JumpController : MonoBehaviour
 
     void  Update()    
     {
+
+        if (rb.velocity.y < -0.1)
+        {
+
+            characterAnimator.SetBool("falling", true);
+
+
+        }
+
+        if (rb.velocity.y < -0.1)
+        {
+
+            characterAnimator.SetBool("falling", true);
+
+
+        }
+        else 
+        {
+            characterAnimator.SetBool("falling", false);
+
+        }
+
+
         if (diableJump)
         {
 
             return;
         }
-
-
-
-
-
 
         if (Input.GetButton("Jump") && !jumping  && grounded && !dialogue )
         {
